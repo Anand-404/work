@@ -1,0 +1,22 @@
+#blog{
+    color: red;
+}
+.icon{
+    position:static;
+    margin-left: 46%;
+}
+#com{
+    color: red;
+}
+
+#card{
+    position: absolute;
+    margin: 100px;
+    margin-left: 1050px;
+    margin-top: -700px;
+}
+#id1{
+    position: absolute;
+    margin-left: 500%;
+    margin: top -20px;;
+}
